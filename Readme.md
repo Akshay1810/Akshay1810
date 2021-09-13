@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Akshay Toshniwal</h1>
 <h3 align="center">c++ coder || MERN developer || learner 👨🏻‍💻</h3>
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcontent.techgig.com%2Fphoto%2F75556224%2F5-high-paying-coding-languages-you-can-learn-for-free.jpg&imgrefurl=https%3A%2F%2Fcontent.techgig.com%2F5-high-paying-coding-languages-you-can-learn-for-free%2Farticleshow%2F75556224.cms&tbnid=GxAa4IMGxuRFEM&vet=12ahUKEwiGwuOeqvvyAhVPfH0KHX_BDy8QMygJegUIARDCAQ..i&docid=953OS3gwwuyCCM&w=900&h=410&q=coding%20languages%20images&ved=2ahUKEwiGwuOeqvvyAhVPfH0KHX_BDy8QMygJegUIARDCAQ)
+
 - 🌱 I’m currently learning React JS, C++, python, javascript
 - 📫 How to reach me **akshaytoshniwal38@gmail.com**
 - 📣 Ask Me About Frontend Dev
